@@ -1,0 +1,60 @@
+.navbar{
+    background-color:black;
+    font-family: sans-serif;
+}
+#toggle-dark-mode{
+    font-family: 'Dancing Script', cursive;
+    background-color: black;
+    border-color: royalblue;
+    font-size: 120%;
+    color:white;
+    height: inherit;
+}
+#toggle-dark-mode:hover{
+    background-color: white;
+    color: black;
+    border-color: white;
+}
+
+.navbar-toggler{
+    width: 47px;
+    height: 34px;
+}
+.nav-link:hover{
+    color: red;
+
+}
+.nav-link{
+
+    font-family: 'Lato', sans-serif;
+    color:white;
+    font-size: 100%;
+
+}
+#intro{
+    text-align: center;
+    /*
+    font-family: 'Dancing Script',cursive;
+
+    */
+    font-family: 'Domine', serif;
+
+
+}
+#intro-p{
+    font-size: 200%;
+}
+.dark-mode{
+    background-color: black;
+    color:white;
+}
+#skills-heading{
+    text-align: center;
+    font-family: 'Dancing Script',cursive;
+    font-style: oblique;
+
+}
+#skills{
+    display: flex;
+}
+
