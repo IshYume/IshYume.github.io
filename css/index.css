@@ -3,16 +3,15 @@
     font-family: sans-serif;
 }
 #toggle-dark-mode{
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Lato', sans-serif;
     background-color: black;
     border-color: royalblue;
-    font-size: 120%;
     color:white;
     height: inherit;
 }
 #toggle-dark-mode:hover{
-    background-color: white;
-    color: black;
+    background-color:black;
+    color: red;
     border-color: white;
 }
 
@@ -41,11 +40,16 @@
 
 
 }
+#brand{
+    height:40px;
+    width: 40px;
+    border-radius: 50%;
+}
 #intro-p{
     font-size: 200%;
 }
 .dark-mode{
-    background-color: black;
+    background-color:#121212;
     color:white;
 }
 #skills-heading{
